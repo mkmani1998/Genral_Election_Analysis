@@ -12,7 +12,7 @@ This repository implements a robust data engineering pipeline for the **Indian G
 
 ## 🏗️ Medallion Architecture
 
-```mermaid
+```
 graph TD
     A[Raw Data (CSV)] --> B[Bronze Layer]
     B --> C[Silver Layer]
